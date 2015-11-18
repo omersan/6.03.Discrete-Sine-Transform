@@ -1,4 +1,4 @@
-# Discrete-Sine-Transform
+# 6.03.Discrete-Sine-Transform
 Discrete Sine Transform to Solve Poisson Equation in 2D
 
 [DST.pdf](https://github.com/omersan/Discrete-Sine-Transform/files/37436/DST.pdf)
